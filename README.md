@@ -37,7 +37,7 @@ This app intends to create a quicker and more optimal food delivery system.
 
 ---
 
-### **Consequences *
+### **Consequences **
 
 The hope is that these decisions will address increasing complaints from both users and restaurants about the dominant apps in the market.
 
